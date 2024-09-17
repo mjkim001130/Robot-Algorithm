@@ -7,5 +7,4 @@
 
 ### Bug 1 & Bug 2
 ![Bug1](https://github.com/user-attachments/assets/51ec43ac-1ea8-4794-9b42-80c02ec74be0) | []()
-
 --- | ---
