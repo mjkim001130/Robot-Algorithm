@@ -6,5 +6,6 @@
 3. [Tangent Bug](./Tangent_Bug/m)
 
 ### Bug 1 & Bug 2
-![Bug1](https://github.com/user-attachments/assets/bf11f440-dbe5-4a29-abbb-d47dffc409f2) | []()
+![Bug1](https://github.com/user-attachments/assets/51ec43ac-1ea8-4794-9b42-80c02ec74be0) | []()
+
 --- | ---
