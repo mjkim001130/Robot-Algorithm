@@ -1,2 +1,2 @@
-# Algorithmic-Foundations-in-Robotics
+# Robot Algorithm
 2024 Robot Algorithm
